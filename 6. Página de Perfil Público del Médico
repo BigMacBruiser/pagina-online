@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Perfil Público del Médico</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Perfil Público</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="doctors.html">Buscar Médicos</a></li>
+                <li><a href="profile.html">Perfil del Médico</a></li>
+                <li><a href="messages.html">Mensajería</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Dr. Juan Pérez</h2>
+        <section id="public-profile">
+            <!-- Información pública del médico -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Plataforma de Citas Médicas</p>
+    </footer>
+</body>
+</html>
