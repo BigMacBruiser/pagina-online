@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Perfil del Médico</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Plataforma de Citas Médicas</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="doctors.html">Buscar Médicos</a></li>
+                <li><a href="profile.html">Perfil del Médico</a></li>
+                <li><a href="messages.html">Mensajería</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Dr. Juan Pérez</h2>
+        <section id="doctor-details">
+            <!-- Información detallada del médico -->
+        </section>
+        <section id="appointment-schedule">
+            <h3>Programar una Cita</h3>
+            <!-- Formulario para seleccionar fecha y hora -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Plataforma de Citas Médicas</p>
+    </footer>
+</body>
+</html>
