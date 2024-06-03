@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Buscar Médicos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Plataforma de Citas Médicas</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="doctors.html">Buscar Médicos</a></li>
+                <li><a href="profile.html">Perfil del Médico</a></li>
+                <li><a href="messages.html">Mensajería</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Listado de Médicos</h2>
+        <section id="doctor-cards">
+            <!-- Tarjetas de presentación de médicos -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Plataforma de Citas Médicas</p>
+    </footer>
+</body>
+</html>
